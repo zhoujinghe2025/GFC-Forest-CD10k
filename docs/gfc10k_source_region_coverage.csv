@@ -1,0 +1,25 @@
+source,continent,macro_region,region_descriptor,forest_biome,samples,positive,negative,train,val,test,valid_ratio_mean,change_ratio_mean
+gfc_2018_2020_amazon_01,South America,Amazon Basin,Brazil/Peru Amazon,humid tropical forest,661,540,121,505,111,45,0.1434805404039807,0.3122670731676817
+gfc_2018_2020_amazon_02,South America,Amazon Basin,Brazilian Amazon,humid tropical forest,466,259,207,381,25,60,0.1658405418559717,0.21403582664456178
+gfc_2018_2020_borneo_01,Southeast Asia,Borneo,Borneo lowland forest,humid tropical forest,289,239,50,256,23,10,0.07065875307498919,0.3509266417918757
+gfc_2018_2020_borneo_02,Southeast Asia,Borneo,Borneo lowland forest,humid tropical forest,626,532,94,385,115,126,0.14113304942560653,0.24618169201402434
+gfc_2018_2020_expansion_amazon_bolivia_01,South America,Amazon Basin,Bolivian Amazon,humid tropical forest,791,190,601,665,79,47,0.1289413394276924,0.04139794783329456
+gfc_2018_2020_expansion_amazon_colombia_01,South America,Amazon Basin,Colombian Amazon,humid tropical forest,82,66,16,76,6,0,0.1232794784918064,0.2901309072261783
+gfc_2018_2020_expansion_amazon_guiana_01,South America,Guiana Shield,Guiana forest,humid tropical forest,421,87,334,372,3,46,0.10612694384649644,0.04893912661233336
+gfc_2018_2020_expansion_amazon_venezuela_01,South America,Amazon/Orinoco,Venezuela forest,humid tropical forest,27,27,0,24,3,0,0.07562086317274305,0.6453655606721747
+gfc_2018_2020_expansion_andes_cloudforest_01,South America,Andes,Andean cloud forest,montane/cloud forest,175,158,17,121,26,28,0.07542576381138393,0.31992501713606347
+gfc_2018_2020_expansion_australia_queensland_01,Oceania,Queensland,Queensland forest,subtropical/tropical forest,9,8,1,9,0,0,0.07337103949652778,0.2555407241946634
+gfc_2018_2020_expansion_boreal_canada_01,North America,Boreal Canada,Canadian boreal forest,boreal forest,915,317,598,745,76,94,0.14664835278453722,0.23281630605378587
+gfc_2018_2020_expansion_boreal_siberia_01,Asia,Boreal Siberia,Siberian boreal forest,boreal forest,1055,533,522,810,87,158,0.09514022754831902,0.24518232400639126
+gfc_2018_2020_expansion_central_america_01,Central America,Central America,Central American forest,tropical forest,638,583,55,494,72,72,0.10169334770370053,0.33273408435173524
+gfc_2018_2020_expansion_congo_angola_01,Africa,Congo Basin,Angola/Congo forest,humid tropical forest,333,333,0,241,63,29,0.08756620389921171,0.315448064450906
+gfc_2018_2020_expansion_congo_caf_01,Africa,Congo Basin,Central African forest,humid tropical forest,331,330,1,267,47,17,0.08528280114119147,0.3500925051109705
+gfc_2018_2020_expansion_congo_cameroon_01,Africa,Congo Basin,Cameroon forest,humid tropical forest,131,117,14,107,20,4,0.06542141746928673,0.29991776172044765
+gfc_2018_2020_expansion_madagascar_east_01,Africa,Madagascar,Eastern Madagascar forest,humid tropical forest,405,403,2,334,48,23,0.11307327835648148,0.3423764068946197
+gfc_2018_2020_expansion_mexico_yucatan_01,North America,Yucatan,Yucatan forest,seasonal tropical forest,615,538,77,527,35,53,0.10003185737423781,0.39730577648947735
+gfc_2018_2020_expansion_se_asia_borneo_03,Southeast Asia,Borneo,Borneo forest,humid tropical forest,663,487,176,561,41,61,0.1081700389741233,0.28967989389638643
+gfc_2018_2020_expansion_se_asia_myanmar_01,Southeast Asia,Myanmar,Myanmar forest,monsoon forest,271,269,2,236,13,22,0.08314142543891259,0.2944753357030348
+gfc_2018_2020_expansion_se_asia_papua_01,Oceania,Papua,Papua forest,humid tropical forest,70,66,4,58,4,8,0.058660670689174105,0.34504586874970467
+gfc_2018_2020_expansion_se_asia_sumatra_02,Southeast Asia,Sumatra,Sumatra forest,humid tropical forest,393,378,15,333,29,31,0.1206195627460043,0.31333460019797665
+gfc_2018_2020_expansion_temperate_china_01,Asia,Temperate China,China temperate forest,temperate forest,421,364,57,318,53,50,0.06887650659701604,0.23407244066357266
+gfc_2018_2020_expansion_temperate_europe_01,Europe,Temperate Europe,European temperate forest,temperate forest,212,176,36,176,30,6,0.06842695991947965,0.4155125098838336

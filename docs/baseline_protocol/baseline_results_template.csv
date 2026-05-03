@@ -1,0 +1,7 @@
+model,seed,train_samples,val_samples,test_samples,params_m,flops_g,precision,recall,f1,iou_change,miou,oa,best_epoch,checkpoint_rule,notes
+FC-EF,0,8001,1009,990,,,,,,,,best_val_f1,
+FC-Siam-Diff,0,8001,1009,990,,,,,,,,best_val_f1,
+FC-Siam-Conc,0,8001,1009,990,,,,,,,,best_val_f1,
+SNUNet,0,8001,1009,990,,,,,,,,best_val_f1,
+BIT,0,8001,1009,990,,,,,,,,best_val_f1,
+ChangeFormer,0,8001,1009,990,,,,,,,,best_val_f1,

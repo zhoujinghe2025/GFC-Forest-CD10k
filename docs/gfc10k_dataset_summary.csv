@@ -1,0 +1,2 @@
+dataset,total_samples,positive_samples,negative_samples,positive_fraction,valid_ratio_mean,valid_ratio_median,valid_ratio_min,valid_ratio_p25,valid_ratio_p75,change_ratio_valid_mean,change_ratio_valid_median,source_regions,train_samples,val_samples,test_samples
+GFC_Forest_256_10k_candidate_v1,10000,7000,3000,0.7,0.11155450592041016,0.080169677734375,0.0500030517578125,0.0601806640625,0.12342453002929688,0.2647513877734844,0.23646833630909297,24,8001,1009,990

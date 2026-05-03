@@ -1,0 +1,19 @@
+{
+  "dataset_name": "GFC-Forest-CD10k",
+  "version": "1.0.0-candidate",
+  "date_prepared": "2026-05-01",
+  "samples": 10000,
+  "positive_samples": 7000,
+  "negative_samples": 3000,
+  "train_samples": 8001,
+  "val_samples": 1009,
+  "test_samples": 990,
+  "patch_size": 256,
+  "ignore_label": 255,
+  "valid_ratio_min": 0.05,
+  "positive_change_ratio_min": 0.05,
+  "negative_change_ratio_max": 0.03,
+  "dataset_license": "CC BY-NC 4.0",
+  "code_license": "MIT",
+  "status": "candidate; human audit and baseline experiments pending"
+}

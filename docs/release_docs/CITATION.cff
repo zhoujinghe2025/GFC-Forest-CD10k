@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: GFC-Forest-CD10k: A Candidate Multi-Regional Forest Change Detection Benchmark
+message: If you use this dataset, please cite the associated paper or dataset release.
+type: dataset
+authors:
+  - family-names: Zhou
+    given-names: Jinghe
+version: 1.0.0-candidate
+date-released: 2026-05-01
+license: CC-BY-NC-4.0

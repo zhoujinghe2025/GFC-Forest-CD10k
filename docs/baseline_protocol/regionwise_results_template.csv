@@ -1,0 +1,2 @@
+model,seed,source,continent,samples,precision,recall,f1,iou_change,miou,oa
+FC-EF,0,gfc_2018_2020_expansion_boreal_siberia_01,Asia,158,,,,,,

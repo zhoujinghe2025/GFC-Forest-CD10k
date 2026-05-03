@@ -1,0 +1,9 @@
+model,family,priority,reason,server_required
+FC-EF,CNN early fusion,required,classical low-complexity baseline,yes
+FC-Siam-Diff,Siamese CNN,required,classical change-difference baseline,yes
+FC-Siam-Conc,Siamese CNN,required,classical change-concatenation baseline,yes
+SNUNet,Nested Siamese CNN,required,strong CNN CD baseline,yes
+BIT,Transformer CD,required,widely used transformer-style baseline,yes
+ChangeFormer,Transformer CD,required,common strong transformer baseline,yes
+Lightweight modern CD backbone,TBD optional,optional,adds recent architecture coverage,yes
+Proposed/local model,TBD optional,optional,only if paired with method contribution,yes

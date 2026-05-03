@@ -1,0 +1,5 @@
+model,seed,valid_ratio_bin,samples,precision,recall,f1,iou_change,miou,oa
+FC-EF,0,0.05-0.10,,,,,,,
+FC-EF,0,0.10-0.20,,,,,,,
+FC-EF,0,0.20-0.40,,,,,,,
+FC-EF,0,>=0.40,,,,,,,
